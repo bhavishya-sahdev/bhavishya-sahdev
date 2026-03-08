@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhavishya</h1>
 <h3 align="center">I am a full-stack solopreneur.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavishya-sahdev" alt="bhavishya-sahdev" /></a> </p>
+- 🔭 I’m currently working on **Essential, Featureflow and a lot more!**
 
-- 🔭 I’m currently working on **Ambient/Subtract**
+- 🌱 I’m currently learning **How to sell**
 
-- 🌱 I’m currently learning **Machine Learning/Deep Learning/PyTorch/Hugging-Face**
-
-- 👨‍💻 All of my projects are available at [https://bhavishya.dev](https://bhavishya.dev)
+- 👨‍💻 All of my projects are available at [https://bhavishyasahdev.com](https://bhavishyasahdev.com)
 
 - 💬 Ask me about **Frontend technologies including but not limited to React, TypeScript or Node. Backend technologies like Node, Python, Postgres or Neon. And a lot more, let's talk!**
 
